@@ -8,7 +8,7 @@ We would like you to be able to
 
 * compile the global protocols, reported in Figure 15, Section 6.2. For that purpose, complete Step 3 of this document.  
 
-Additionally, you can try some of the other protocols that we have implemented, such as DNS (See Step 2.2).  You can also verify examples and use cases (Step 4.1 and 4.2) and implement your own protocols (Step 4.3) using our library.
+Additionally, you can try some of the other protocols that we have implemented, such as DNS (See Step 2.2).  You can also verify other examples (Step 4.1 and 4.2) and implement your own protocols (Step 4.3) using our library.
 
 ## Getting started
 
